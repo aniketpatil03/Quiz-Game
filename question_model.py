@@ -5,5 +5,3 @@ class Question:
 
 
 question1 = Question("First question", "First answer")
-print(question1.text)
-print(question1.correct_answer)
